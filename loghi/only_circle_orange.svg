@@ -13,11 +13,13 @@
    height="365"
    id="svg2"
    version="1.1"
-   inkscape:version="0.47pre4 r22446"
-   sodipodi:docname="penguin_in_the_circle_orange_simplify.svg"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="only_circle_orange.svg"
    inkscape:export-filename="/home/maxo/Dropbox/lug/grafica/logo/penguin_in_the_circle_orange.png"
    inkscape:export-xdpi="299.98215"
    inkscape:export-ydpi="299.98215">
+  <title
+     id="title2997">Logo del LUG Scandiano</title>
   <defs
      id="defs4">
     <linearGradient
@@ -72,15 +74,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9899495"
-     inkscape:cx="305.76144"
+     inkscape:cx="307.78175"
      inkscape:cy="211.97651"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1680"
-     inkscape:window-height="976"
+     inkscape:window-height="991"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -90,8 +92,40 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>Logo del LUG Scandiano</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Massimo Barbieri</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>©LUG Scandiano (CC-BY-SA)</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>LUG Scandiano</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -104,7 +138,7 @@
        transform="translate(-20.571429,415.42857)">
       <path
          transform="matrix(0.7146034,0,0,0.7146034,-89.153997,100.52093)"
-         d="m 547.14284,550.2193 a 190.71428,190.71428 0 1 1 -381.42856,0 190.71428,190.71428 0 1 1 381.42856,0 z"
+         d="m 547.14284,550.2193 c 0,105.32859 -85.38569,190.71428 -190.71428,190.71428 -105.32859,0 -190.71428,-85.38569 -190.71428,-190.71428 0,-105.32859 85.38569,-190.71428 190.71428,-190.71428 105.32859,0 190.71428,85.38569 190.71428,190.71428 z"
          sodipodi:ry="190.71428"
          sodipodi:rx="190.71428"
          sodipodi:cy="550.2193"
