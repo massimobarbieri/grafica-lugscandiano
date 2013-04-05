@@ -14,12 +14,14 @@
    inkscape:export-ydpi="72"
    inkscape:export-xdpi="72"
    inkscape:export-filename="/home/mbarbieri/MyBox/lug/grafica/2013/corso.png"
-   sodipodi:docname="corso.svg"
+   sodipodi:docname="20130318_corso-base.svg"
    inkscape:version="0.48.3.1 r9886"
    version="1.1"
    id="svg2"
    height="1488.189"
    width="1052.3622">
+  <title
+     id="title5815">Locandina corso base GNU/Linux 2013</title>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -28,13 +30,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70957955"
-     inkscape:cx="206.77898"
+     inkscape:cx="209.59755"
      inkscape:cy="1020.6205"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1021"
+     inkscape:window-width="1680"
+     inkscape:window-height="991"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -13648,8 +13650,41 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>Locandina corso base GNU/Linux 2013</dc:title>
+        <dc:date>2013-03-18</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Massimo Barbieri &lt;massimo@fsfe.org&gt;</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>©2013 Massimo Barbieri</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>LUG Scandiano</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g

@@ -19,6 +19,8 @@
    inkscape:export-filename="/home/mbarbieri/MyBox/lug/grafica/2012/biblioteca/cultura_informatica1.png"
    inkscape:export-xdpi="150"
    inkscape:export-ydpi="150">
+  <title
+     id="title3635">Cartolina corso LibreOffice 2013 (Fronte)</title>
   <defs
      id="defs4">
     <linearGradient
@@ -3634,7 +3636,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="367.81528"
+     inkscape:cx="369.83559"
      inkscape:cy="91.135776"
      inkscape:document-units="px"
      inkscape:current-layer="g4133"
@@ -3657,8 +3659,41 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title>Cartolina corso LibreOffice 2013 (Fronte)</dc:title>
+        <dc:date>2013-05-17</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Massimo Barbieri &lt;massimo@fsfe.org&gt;</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>©Massimo Barbieri</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Comune di Scandiano</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
