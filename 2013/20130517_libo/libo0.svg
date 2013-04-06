@@ -16,9 +16,9 @@
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="libo0.svg"
-   inkscape:export-filename="/home/mbarbieri/MyBox/lug/grafica/2012/biblioteca/cultura_informatica1.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">
+   inkscape:export-filename="/home/maxo/Scrivania/lobo0.png"
+   inkscape:export-xdpi="150.91"
+   inkscape:export-ydpi="150.91">
   <title
      id="title4133">Cartolina corso LibreOffice 2013 (Retro)</title>
   <defs
@@ -3897,9 +3897,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="206.5686"
-     inkscape:cy="214.84694"
+     inkscape:zoom="1.0855469"
+     inkscape:cx="181.91783"
+     inkscape:cy="128.19813"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -6807,7 +6807,7 @@
            y="-53.553391"
            style="fill:#4e9a06" /></flowRegion><flowPara
          id="flowPara4153"
-         style="font-size:16px;font-weight:bold;fill:#4e9a06;-inkscape-font-specification:Sans Bold">Corso intensivo di </flowPara></flowRoot>    <flowRoot
+         style="font-size:16px;font-weight:bold;fill:#4e9a06;-inkscape-font-specification:Sans Bold">Corso intensivo gratuito di </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4155"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4e9a06;fill-opacity:1;stroke:none;font-family:Sans"
@@ -6824,7 +6824,7 @@
        xml:space="preserve"
        id="flowRoot5008"
        style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-9.3458104,-74.060443)"><flowRegion
+       transform="translate(-9.3458104,-68.060443)"><flowRegion
          id="flowRegion5010"><rect
            id="rect5012"
            width="450.71429"
@@ -6851,7 +6851,9 @@
          style="font-size:9px"
          id="flowPara5151" /><flowPara
          style="font-size:9px;font-weight:bold;-inkscape-font-specification:Sans Bold"
-         id="flowPara5155">Programma e informazioni dettagliate sono disponibili su: http://lugscandiano.org</flowPara></flowRoot>    <rect
+         id="flowPara5155">Puoi trovare programma e informazioni dettagliate sono disponibili su:</flowPara><flowPara
+         style="font-size:9px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+         id="flowPara4134">http://lugscandiano.org</flowPara></flowRoot>    <rect
        style="fill:#d3d7cf;fill-opacity:0.71875;stroke:#4e9a06;stroke-width:1.93008709000000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect5137"
        width="439.78412"
